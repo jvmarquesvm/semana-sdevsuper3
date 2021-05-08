@@ -1,4 +1,3 @@
-import ImgDsDark from 'assets/img/ds_dark.svg';
 import Footer from 'components/Footer';
 import NavBar from 'components/NavBar';
 import { Link } from 'react-router-dom';
